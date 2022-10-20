@@ -25,7 +25,6 @@ var Libro = /** @class */ (function () {
     }
     /**
      * getNombre
-   
     */
     Libro.prototype.getNombre = function () {
         return this.nombre;
